@@ -1,0 +1,26 @@
+{
+  "name": "vuex-simplify",
+  "version": "1.0.0",
+  "description": "A simplify vuex without those concept about module and namespace",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-Fang/vuex-simplify.git"
+  },
+  "keywords": [
+    "vuex",
+    "simplify-vuex"
+  ],
+  "author": "Daniel Fang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Daniel-Fang/vuex-simplify/issues"
+  },
+  "homepage": "https://github.com/Daniel-Fang/vuex-simplify#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
